@@ -1,4 +1,9 @@
-<h1># cooperhead-web</h1>
-<h2>Сайт стримера: Cooperhead</h2>
+<h1># copperhead-web</h1>
+<h3>:ru: Сайт стримера: Copperhead</h3>
+<h3>:gb: Copperhead's website</h3>
 
-<h2>That website is not owned by me, all credits go ***Spectral developers!***</h2>
+
+
+
+
+<h4>❗That website is not owned by me, all credits go ***Spectral developers!***</h4>
